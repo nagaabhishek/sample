@@ -1,0 +1,17 @@
+cloning repo
+-------------
+git clone <url>
+
+switch branches
+----------------
+git checkout <existing_branch>
+git checkout -b <new_branch>
+
+go back to the old commit
+--------------------------
+git reset --hard <sha>
+
+push commit
+------------
+
+git push --force
